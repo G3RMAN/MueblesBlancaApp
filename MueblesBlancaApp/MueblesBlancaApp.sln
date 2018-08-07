@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MueblesBlancaServiceWeb", "MueblesBlancaServiceWeb\MueblesBlancaServiceWeb.csproj", "{1EA0B98F-BA6F-4277-BC5C-FA536D2A7295}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MueblesBlancaClientApp", "MueblesBlancaClientApp\MueblesBlancaClientApp.csproj", "{734F0A86-6B8D-4CA5-A2A8-D0B383CEC672}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EA0B98F-BA6F-4277-BC5C-FA536D2A7295}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EA0B98F-BA6F-4277-BC5C-FA536D2A7295}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EA0B98F-BA6F-4277-BC5C-FA536D2A7295}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EA0B98F-BA6F-4277-BC5C-FA536D2A7295}.Release|Any CPU.Build.0 = Release|Any CPU
+		{734F0A86-6B8D-4CA5-A2A8-D0B383CEC672}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{734F0A86-6B8D-4CA5-A2A8-D0B383CEC672}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{734F0A86-6B8D-4CA5-A2A8-D0B383CEC672}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{734F0A86-6B8D-4CA5-A2A8-D0B383CEC672}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

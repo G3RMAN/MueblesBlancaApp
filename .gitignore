@@ -3,3 +3,13 @@
 ################################################################################
 
 /MueblesBlancaApp/.vs
+/MueblesBlancaApp/MueblesBlancaClientApp/bin
+/MueblesBlancaApp/MueblesBlancaClientApp/obj/Debug
+/MueblesBlancaApp/MueblesBlancaClientApp/MueblesBlancaClientApp.csproj.user
+/MueblesBlancaApp/MueblesBlancaServiceWeb/obj/Debug
+/MueblesBlancaApp/MueblesBlancaServiceWeb/MueblesBlancaServiceWeb.csproj.user
+/MueblesBlancaApp/MueblesBlancaWebService/packages
+/MueblesBlancaApp/packages
+/MueblesBlancaApp/MueblesBlancaWebService/MueblesBlancaWebService/obj/Debug
+/MueblesBlancaApp/MueblesBlancaWebService/.vs
+/MueblesBlancaApp/MueblesBlancaWebService/MueblesBlancaWebService/MueblesBlancaWebService.csproj.user
